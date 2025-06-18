@@ -1,0 +1,8 @@
+aiohttp
+aiofiles
+matplotlib
+transformers==4.46.2
+torch
+elasticsearch==8.17.1
+tqdm
+faiss-gpu-cu12
